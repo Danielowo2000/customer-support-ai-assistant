@@ -12,3 +12,6 @@ Before getting started, please ensure that you are using **Python 3.9** or a com
    ```bash
    pyenv install 3.9.12
    pyenv global 3.9.12
+3. Ensure the correct version is being used by running:
+   ```bash
+   python --version
