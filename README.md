@@ -15,3 +15,20 @@ Before getting started, please ensure that you are using **Python 3.9** or a com
 3. Ensure the correct version is being used by running:
    ```bash
    python --version
+## Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/customer-support-ai-assistant.git
+   cd customer-support-ai-assistant
+2. Create a virtual environment
+   ```bash
+   python3.9 -m venv venv
+3. Activate the virtual environment:
+   On windows:
+   ```bash
+   .\venv\Scripts\activate
+   ````
+   On Mac:
+   
+   
+   
