@@ -1,0 +1,5 @@
+openai==1.55.3
+project_config==0.9.7
+python-dotenv==1.0.1
+Requests==2.32.3
+utils==1.0.2

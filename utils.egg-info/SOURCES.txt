@@ -1,0 +1,13 @@
+setup.py
+assistant/__init__.py
+audio_handling/__init__.py
+audio_handling/audio_transcription_service.py
+audio_handling/eleven_labs_audio_generation_service.py
+chat/__init__.py
+chat/chat_service.py
+utils/__init__.py
+utils/file_utils.py
+utils.egg-info/PKG-INFO
+utils.egg-info/SOURCES.txt
+utils.egg-info/dependency_links.txt
+utils.egg-info/top_level.txt
